@@ -96,7 +96,7 @@ How many neurons, layers, and activation functions did you select for your neura
 first try started with 2 hidden layer and the second times I added another layer which increase my accuracy from 73% to 75%.
 Were you able to achieve the target model performance?
 * yes with several models and adding more columns and bins. 
-What steps did you take in your attempts to increase model performance?
+- What steps did you take in your attempts to increase model performance?
 * with adding more columns, more hidden layers, more bins we were able to increase the accuracy of the model. 
 
 # Summary
