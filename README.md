@@ -90,13 +90,15 @@ What variable(s) are the features for your model?
 What variable(s) should be removed from the input data because they are neither targets nor features?
 * first model I droped EIN and NAME columns and verall the accuracy was at 73% and the second try added the NAME column and give higher accuracy of 75%
   
-*Compiling, Training, and Evaluating the Model
+* Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-first try started with 2 hidden layer and the second times I added another layer which increase my accuracy from 73% to 75%.
+* first model I started with 2 hidden layer and the second times I added another layer which increase my accuracy from 73% to 75%.
+  
 Were you able to achieve the target model performance?
 * yes with several models and adding more columns and bins. 
-- What steps did you take in your attempts to increase model performance?
+
+What steps did you take in your attempts to increase model performance?
 * with adding more columns, more hidden layers, more bins we were able to increase the accuracy of the model. 
 
 # Summary
