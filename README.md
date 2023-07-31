@@ -88,7 +88,7 @@ What variable(s) are the target(s) for your model?
 What variable(s) are the features for your model?
 * The feature variables are every other column from application_df.
 What variable(s) should be removed from the input data because they are neither targets nor features?
-* first model I droped EIN and NAME columns and verall the accuracy was at 73% and the second try added the NAME column and give higher accuracy of 75%
+* first model I droped EIN and NAME columns and overall the accuracy was at 73% and the second try added the NAME column and give higher accuracy of 75%
   
 * Compiling, Training, and Evaluating the Model
 
