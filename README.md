@@ -104,4 +104,4 @@ What steps did you take in your attempts to increase model performance?
 # Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
-Overall, the deep learning model was around 75% accuracy rate in predicting the classification problem and funding success rate. By cleaning the data and finding more outliers will cause the higher accuracy.   
+Overall, the deep learning model was around 75% accuracy rate in predicting the classification problem and funding success rate. By cleaning the data and finding more outliers will cause the higher accuracy. I would recommend using another classification model to see if predicting whether applicants will be successful or not have higher accuracy.
